@@ -4,20 +4,20 @@
     "lastName": "Palmer",
     "email": "amazingwoman@test.com",
     "favoriteColor": "Yellow",
-    "birthday": "09/23/20"
+    "birthday": "09/23/92"
   },
   "contact2": {
     "firstName": "Cannon",
     "lastName": "Evans",
     "email": "cannonball444@test.com",
     "favoriteColor": "Blue",
-    "birthday": "07/12/10"
+    "birthday": "07/12/92"
   },
   "contact3": {
     "firstName": "Emma",
     "lastName": "Berry",
     "email": "ebear@test.com",
     "favoriteColor": "Silver",
-    "birthday": "02/22/95"
+    "birthday": "02/22/94"
   }
 }

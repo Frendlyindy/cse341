@@ -21,18 +21,18 @@ content-type: application/json
 
 
 ### PUT contact
-PUT http://localhost:8080/contacts/6220bcb39cd507e920c75a0b HTTP/1.1
+PUT http://localhost:8080/contacts/646ccc90ce2128a4c8e6ddab HTTP/1.1
 content-type: application/json
 
 {
-    "firstName":"Spencer",
-    "lastName":"Birch",
-    "email":"test@gmail.com",
-    "favoriteColor":"Orange",
-    "birthday":"12/12/20"
-}
+    "firstName": "Emma",
+    "lastName": "Berry",
+    "email": "ebear@test.com",
+    "favoriteColor": "Silver",
+    "birthday": "02/22/94"
+  }
 ### DELETE contact
-DELETE http://localhost:8080/contacts/6220b775099269ff7b31ceab HTTP/1.1
+DELETE http://localhost:8080/contacts/646ccf3b1cef981dcbaf849a HTTP/1.1
 
 // PRODUCTION Deploy
 ### Get all contacts
